@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aevanvaghani
 - 👀 I’m interested in Automation testing
-- 🌱 I’m currently learning playwright with javascript
+- 🌱 I’m currently learning java with selenium
 
 
 <!---
